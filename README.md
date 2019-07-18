@@ -20,7 +20,7 @@ If you find any bug, and a fix for that bug, please leave a comment on the githu
 ****
 
 
-1. Download the latest version with git (`git clone https://github.com/era5mx/warehouse-inventory-system.git`)
+1. Download the latest version with git (`git clone https://github.com/era5mx/cantera5.git`)
 
 2. Import/load cantera5.sql into your mysql database. This should set up the basic structure of the database system.
 
